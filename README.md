@@ -14,4 +14,4 @@ Try the [Live Demo](https://regularmemory.blog/PhaserTemplate)
 
 # Screenshot
 
-[![](./screenshot.png)](https://regularmemory.blog/PhaserTemplate)
+[![](./demo.gif)](https://regularmemory.blog/PhaserTemplate)
