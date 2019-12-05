@@ -1,6 +1,6 @@
 # PhaserTemplate
 
-Get started quickly with [PhaserJS](https://phaser.io/phaser3) 3, [MatterJS](https://brm.io/matter-js/) physics, physics joints, and local multiplayer.
+Get started quickly with [PhaserJS](https://phaser.io/phaser3), [MatterJS](https://brm.io/matter-js/) physics, physics joints, and local multiplayer.
 
 # How to Use
 
