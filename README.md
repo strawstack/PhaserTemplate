@@ -12,6 +12,4 @@ Get started quickly with [PhaserJS](https://phaser.io/phaser3), [MatterJS](https
 
 Try the [Live Demo](https://regularmemory.blog/PhaserTemplate)
 
-# Screenshot
-
 [![](./demo.gif)](https://regularmemory.blog/PhaserTemplate)
