@@ -10,8 +10,8 @@ Get started quickly with [PhaserJS] 3(https://phaser.io/phaser3), [MatterJS](htt
 
 # Live Demo
 
-Try the [Live Demo](#)
+Try the [Live Demo](https://regularmemory.blog/PhaserTemplate)
 
 # Screenshot
 
-[![](./screenshot.png)](#)
+[![](./screenshot.png)](https://regularmemory.blog/PhaserTemplate)
