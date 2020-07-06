@@ -10,6 +10,6 @@ Get started quickly with [PhaserJS](https://phaser.io/phaser3), [MatterJS](https
 
 # Live Demo
 
-Try the [Live Demo](https://regularmemory.blog/PhaserTemplate)
+Try the [Live Demo](https://strawstack.github.io/PhaserTemplate)
 
-[![](./demo.gif)](https://regularmemory.blog/PhaserTemplate)
+[![](./demo.gif)](https://strawstack.github.io/PhaserTemplate)
